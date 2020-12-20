@@ -1,2 +1,2 @@
-# ReactPropsChallenge_DevTools
+# ReactPropertiesChallenge
 Created with CodeSandbox
